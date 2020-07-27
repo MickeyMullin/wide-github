@@ -15,7 +15,7 @@
 @supportURL   https://github.com/xthexder/wide-github/issues
 ==/UserStyle== */
 
-@-moz-document regexp("^https://(?:gist\\.)?github\\.com/.*") {
+@-moz-document regexp("^https://(?:git\\.vzbuilders|(?:gist\\.)?github)\\.com/.*") {
 
   body:not(.wgh-disabled) .application-main .container {
     width: auto !important;
