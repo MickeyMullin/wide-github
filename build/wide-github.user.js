@@ -3,7 +3,7 @@
 // ==UserScript==
 // @name        Wide GitHub
 // @namespace   https://github.com/xthexder/wide-github
-// @description Change all GitHub repository and gist pages to be full width and dynamically sized.
+// @description Change GitHub repository and gist pages to be full width and dynamically sized.
 // @author      xthexder
 // @copyright   2013+, xthexder (https://github.com/xthexder)
 // @contributor Jason Frey (https://github.com/Fryguy)
@@ -17,6 +17,7 @@
 // @homepageURL https://github.com/xthexder/wide-github
 // @supportURL  https://github.com/xthexder/wide-github/issues
 // @include     *github.com*
+// @include     https://git.vzbuilders.com/*
 // @grant       none
 // ==/UserScript==
 
